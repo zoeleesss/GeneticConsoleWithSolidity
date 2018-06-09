@@ -1,15 +1,3 @@
-# GeneScienceMadeEasy
-
-The source code of GeneScience of cryptokitties and other genetic stuff
-
-# Genetic Console With Solidity
-
-- My Own Implementation Of Genetic Algorithms.
-- The genes of parents can pass down to their children' genes.
-- Easy to understand.
-
-
-```solidity
 pragma solidity ^0.4.21;
 
 contract GeneticConsole{
@@ -187,8 +175,3 @@ contract GeneticConsole{
     }
 
 }
-
-
-```
-
-# DON'T forget to give us  *****   A STAR!  *****     Thanks!
